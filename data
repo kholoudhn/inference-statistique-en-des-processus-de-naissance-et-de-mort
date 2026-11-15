@@ -1,0 +1,10 @@
+inference-processus-naissance-mort/
+├── README.md
+├── LICENSE
+├── data/
+│   └── references.bib
+├── docs/
+│   ├── plan-gestion-donnees.pdf
+│   └── charte-ia.md (point 5, plus tard)
+└── rendu/
+    └── (le PDF final de 4 à 6 pages)
